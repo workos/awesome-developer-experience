@@ -112,3 +112,13 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------|
 | [Towards an Empirically-Based IDE: An Analysis of Code Size and Screen Space](http://web.eecs.utk.edu/~azh/pubs/Short2019VLHCC_CodeSize.pdf)                          | The average length of functions per programming language: Java (8.87 lines) / C++ (19.48 lines) / Python (15.60) / JavaScript (21.68 lines). The average line width: Java (70.27 chars) / C++ (74.96 chars) / Python (72.75 chars) / JavaScript (66.32 chars).                                              | University of Tennessee         | 2019                |
 | [Measuring program comprehension: A large-scale field study with professionals](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4781&context=sis_research) | In a study with Java and C# projects, they found that most of the time the developer spends is with Navigation and Comprehension. Here's a summary: Comprehension (57.62%) / Navigation (23.96%) / Editing (5.02%) / Others (13.40%). Data sample: 78 developers across 7 projects over 3,148 working hours | Singapore Management University | 2018                |
+
+## Videos
+
+| Title                                                                                  | Presenter         | Duration | Date       |
+|----------------------------------------------------------------------------------------|-------------------|----------|------------|
+| [Things nobody told you about developer experience (DX)](https://youtu.be/gqnWoh8o36M) | DX Doctor         | 17:02    | 11/23/2019 |
+| [The only way how to have happy & productive developers](https://youtu.be/X4NSLo97Az8) | Vratislav Kalenda | 25:18    | 12/8/2018  |
+| [The Seven Deadly Sins of Developer Onboarding](https://youtu.be/JHtMN8TxUfc)          | Cristiano Betta   | 28:03    | 11/13/2017 |
+| [JS UX: Writing code for humans](https://youtu.be/loj3CLHovt0)                         | Lea Verou         | 1:09:04  | 9/26/2016  |
+| [The Elements of Developer Experience (DX) Design](https://youtu.be/lQdeWHPgoMs)       | Stephen Boak      | 5:24     | 8/4/2016   |
