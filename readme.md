@@ -38,3 +38,70 @@
 | [Software Engineer, Developer Experience](https://www.smartrecruiters.com/Square/743999745776124)                                       | Square       | San Francisco                           |
 | [Product Manager, Developer Experience](https://www.smartrecruiters.com/Square/743999733946053)                                         | Square       | San Francisco                           |
 | [Senior Engineer, Developer Experience](https://www.indeed.com/viewjob?jk=4c099aa06363b611)                                             | Ticketmaster | Remote (US)                             |
+
+## Products
+
+### 2018 - Current
+
+| Name                                   | Description                                                                                                 | Founded Year |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|
+| [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
+| [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
+| [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
+| [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
+| [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
+| [Railway](https://railway.app)         | Railway helps you develop code in a cloud that feels local.                                                 | 2020         |
+| [Raycast](https://raycast.com)         | Raycast lets you control your tools with a few keystrokes.                                                  | 2020         |
+| [Render](https://render.com)           | Render is a unified cloud to build and run all your apps and websites.                                      | 2018         |
+| [Roboflow](https://roboflow.com)       | Roboflow is a developer tool for building computer vision models faster and more accurately.                | 2019         |
+| [Supabase](https://supabase.io)        | Supabase is the open source Firebase alternative.                                                           | 2020         |
+| [Temporal](https://temporal.io)        | Temporal enables its users to build and operate resilient applications using developer-friendly primitives. | 2019         |
+| [WorkOS](https://workos.com)           | WorkOS provides APIs to make applications enterprise-ready.                                                 | 2018         |
+
+### 2014 - 2017
+
+| Name                                     | Description                                                                                                                              | Founded Year |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| [CodeSandbox](https://codesandbox.io)    | CodeSandbox is a free, instant, collaborative sandboxes for rapid web development.                                                       | 2017         |
+| [CodeStream](https://codestream.com)     | CodeStream puts team chat directly into most popular IDEs, making it easier for developers to talk about code & write software together. | 2017         |
+| [Gatsby](https://gatsbyjs.com)           | Gatsby is an open source web development tool and framework which is customizable and extensible for any purpose.                        | 2015         |
+| [GitLab](https://gitlab.com)             | GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.                       | 2014         |
+| [LaunchDarkly](https://launchdarkly.com) | LaunchDarkly is a feature management platform for software teams.                                                                        | 2014         |
+| [Mux](https://mux.com)                   | Mux is a video platform designed to make video streaming and analytics possible for every development team.                              | 2015         |
+| [Netlify](https://netlify.com)           | Netlify is a unified platform that automates code to create high-performant, easily-maintainable sites, and web-apps.                    | 2014         |
+| [PopSQL](https://popsql.com)             | PopSQL is a modern, collaborative SQL editor for teams.                                                                                  | 2017         |
+| [Postman](https://postman.com)           | Postman is the collaboration platform for API development.                                                                               | 2014         |
+| [Prisma](https://prisma.io)              | Prisma enables its users to access all of their databases in a single GraphQL query.                                                     | 2016         |
+| [Readme](https://readme.com)             | Readme provides every company the ability to quickly create beautiful documentation, and build loyal, productive developer communities.  | 2014         |
+| [Replit](https://replit.com)             | Replit is a browser-based integrated development environment (IDE) built for cross-platform collaborative coding.                        | 2016         |
+| [Retool](https://retool.com)             | Retool is a fast way of building internal applications.                                                                                  | 2017         |
+| [Split](https://split.io)                | Split is a feature delivery platform that builds software for engineering teams to build products.                                       | 2015         |
+| [Vercel](https://vercel.com)             | Vercel combines the best developer experience with an obsessive focus on end-user performance.                                           | 2015         |
+
+### 2010 - 2013
+
+| Name                                     | Description                                                                                                                          | Founded Year |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| [Algolia](https://algolia.com)           | Algolia is a search platform that enables companies to deliver fast and relevant digital experiences.                                | 2012         |
+| [Auth0](https://auth0.com)               | Auth0 is an identity management platform for web, mobile, IoT, and internal applications.                                            | 2013         |
+| [DigitalOcean](https://digitalocean.com) | DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.                                        | 2012         |
+| [Expo](https://expo.io)                  | Expo lets developers build universal native apps that work across Android, iOS, and the web by writing them once in just JavaScript. | 2013         |
+| [Firebase](https://firebase.google.com)  | Firebase is a mobile platform that develops apps that grow users base on iOS, Android, or the Web.                                   | 2011         |
+| [HashiCorp](https://hashicorp.com)       | HashiCorp is a company that solves development, security, and operations challenges in infrastructure.                               | 2012         |
+| [Nylas](https://nylas.com)               | Nylas provides an API platform that enables developers to quickly and process user data from any email and calendar.                 | 2013         |
+| [Plaid](https://plaid.com)               | Plaid provides companies with the tools and access needed for the development of a digitally-enabled financial system.               | 2013         |
+| [Sentry](https://sentry.io)              | Sentry is a developer of an application monitoring platform that helps developers monitor apps in real time to catch bugs early.     | 2012         |
+| [Snowflake](https://snowflake.com)       | Snowflake is a cloud data platform that provides a data warehouse-as-a-service designed for the cloud.                               | 2012         |
+| [Stripe](https://stripe.com)             | Stripe is a developer-oriented commerce company helping small and large companies accept web and mobile payments.                    | 2010         |
+| [Webflow](https://webflow.com)           | Webflow is a visual web design platform, CMS, and hosting provider for building production websites and prototypes.                  | 2013         |
+
+### 2000 - 2009
+
+| Name                                 | Description                                                                                                                       | Founded Year |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------|
+| [Cloudflare](https://cloudflare.com) | Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online.     | 2009         |
+| [GitHub](https://github.com)         | GitHub provides code hosting services that allow developers to build software for open source and private projects.               | 2008         |
+| [Heroku](https://heroku.com)         | Heroku is a platform as a service that provides services to create, run, and scale web and mobile apps.                           | 2007         |
+| [Liferay](https://liferay.com)       | Liferay makes software that helps companies create digital experiences on web, mobile and connected devices.                      | 2004         |
+| [MongoDB](https://mongodb.com)       | MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. | 2007         |
+| [Twilio](https://twilio.com)         | Twilio is a cloud communication company that enables users to build voice, VoIP, and SMS apps via a web API.                      | 2008         |
