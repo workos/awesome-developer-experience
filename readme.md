@@ -4,6 +4,14 @@
 
 > A curated list of Developer Experience resources
 
+## Table of Contents
+
+* [Articles](#articles)
+* [Jobs](#jobs)
+* [Products](#products)
+* [Research](#research)
+* [Videos](#videos)
+
 ## Articles
 
 | Title                                                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                | Author            | Date       |
