@@ -7,6 +7,7 @@
 ## Table of Contents
 
 * [Articles](#articles)
+* [Events](#events)
 * [Jobs](#jobs)
 * [Products](#products)
 * [Research](#research)
@@ -35,6 +36,12 @@
 | [What is API Developer Experience and Why It Matters](https://www.infoq.com/news/2015/10/api-developer-experience)                                            | API developer experience is a relatively novel focus aimed to improve API design so it provides a seamless experience to developers when writing software. It can help increase programmers’ efficience and make it easier for developers to achieve goals on behalf of end users.                                                                                                                                                         | Sergio De Simone  | 10/25/2015 |
 | [APIs for Humans: The Rise of Developer Experience (DX)](https://www.hellosign.com/blog/the-rise-of-developer-experience)                                     | The art of simplifying complex interactions into meaningful user experiences is an important competitive advantage for technology companies. But what if your product is an API and your end-users are developers? How do you design a good experience for them?                                                                                                                                                                           | Freddy Rangel     | 9/22/2015  |
 | [Effective Developer Experience (DX)](https://uxmag.com/articles/effective-developer-experience)                                                              | When Apple introduced the iPhone, the device captured the imaginations of its users. Its features satisfied basic needs and also inspired ideas of what could be done when the Internet was always in your pocket. Eight months later, Apple made the iOS SDK available, transforming the iPhone from a product into a platform.                                                                                                           | Jeremiah Lee      | 3/24/2011  |
+
+## Events
+
+| Name | Location | Date |
+| --- | --- | --- |
+| [DevX Conf](https://devxconf.org/) | Online | 4/28/2021
 
 ## Jobs
 
