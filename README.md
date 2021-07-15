@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-* [Articles](#articles)
-* [Events](#events)
-* [Jobs](#jobs)
-* [Products](#products)
-* [Research](#research)
-* [Videos](#videos)
+* [:pencil: Articles](#articles)
+* [:mega: Events](#events)
+* [:briefcase: Jobs](#jobs)
+* [:rocket: Products](#products)
+* [:mag_right: Research](#research)
+* [:movie_camera: Videos](#videos)
 
 ## Articles
 
