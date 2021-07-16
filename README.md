@@ -6,17 +6,17 @@
 
 ## Table of Contents
 
-* [:pencil: Articles](#articles)
-* [:mega: Events](#events)
-* [:briefcase: Jobs](#jobs)
-* [:rocket: Products](#products)
-* [:mag_right: Research](#research)
-* [:movie_camera: Videos](#videos)
+- [:pencil: Articles](#articles)
+- [:mega: Events](#events)
+- [:briefcase: Jobs](#jobs)
+- [:rocket: Products](#products)
+- [:mag_right: Research](#research)
+- [:movie_camera: Videos](#videos)
 
 ## Articles
 
 | Title                                                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                | Author            | Date       |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---------- |
 | [Developer experience is the next major competitive front in enterprise tech](https://www.protocol.com/enterprise/developer-experience-api-console)           | Now that cloud is old news and APIs launch major businesses, the most successful companies over the next decade of enterprise tech will delight their customers.                                                                                                                                                                                                                                                                           | Tom Krazit        | 4/13/2021  |
 | [Why should we care about Developer Experience (DX)](https://tsh.io/blog/developer-experience/)                                                               | Knowledgeable developers are like royalty that’s hard to please. But they’re irreplaceable. Yes, you can substitute employees, but if they’re less skilled, you might end up with costly refactoring. If you value the experienced team you have, consider working on what’s called the developer experience to keep them eager and comfortable.                                                                                           | Marek Gajda       | 3/26/2021  |
 | [How to build a great developer experience](https://blog.apideck.com/how-to-build-a-great-developer-experience)                                               | Nowadays, Developer Experience (DX) is essential for software products. Akin to User Experience (UX), DX instead focuses on improving the developer's journey, reducing hang-ups, and encouraging success throughout their programming experience.                                                                                                                                                                                         | Nick Lloyd        | 3/23/2021  |
@@ -31,7 +31,7 @@
 | [Why Your API Needs a Dedicated Developer Experience Team](https://nordicapis.com/why-your-api-needs-a-dedicated-developer-experience-team/)                  | How can API companies improve their overall process and deliver the high-quality experience their users want? One of the best answers to that question is: Focus on creating a dedicated developer experience team that can empower your users by making it easier to understand, easier to build, and easier to integrate (particularly if your company develops customer-facing APIs).                                                   | James Messinger   | 3/11/2020  |
 | [100 Days of Developer eXperience](https://100daysdx.com)                                                                                                     | Most of the 100 Days of Developer eXperience posts are combination of empirical quotes from developers and facts from scientific articles.                                                                                                                                                                                                                                                                                                 | Jarkko Moilanen   | 11/6/2019  |
 | [Why Developer Experience Matters](https://everydeveloper.com/developer-experience)                                                                           | With the rise of API companies and technical products focused on developers, there is increasing focus on their developer experience. Product managers, marketers, and engineers alike have an interest in evaluating and improving how a developer uses their technical product.                                                                                                                                                          | Adam DuVander     | 10/1/2019  |
-| [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)     | I recently shipped two things at GitHub that had an impact beyond my wildest dreams. The amount of gratitude and love that spilled out of the community is like nothing I’ve seen before. But the things I shipped weren’t these huge, meaty projects. They were tiny. | Joel Califa | 1/30/2018  |
+| [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)                                                                                                           | I recently shipped two things at GitHub that had an impact beyond my wildest dreams. The amount of gratitude and love that spilled out of the community is like nothing I’ve seen before. But the things I shipped weren’t these huge, meaty projects. They were tiny.                                                                                                                                                                     | Joel Califa       | 1/30/2018  |
 | [The Best Practices for a Great Developer Experience (DX)](https://hackernoon.com/the-best-practices-for-a-great-developer-experience-dx-9036834382b0)        | Developer Experience (DX) is the equivalent to User Experience (UX) when the user of the software or system is a developer. DX describes the experience developers have when they use your product, be it client libraries, SDKs, frameworks, open source code, tools, API, technology or service. DX shares some ideas and philosophies from UX design (or HCI), but builds on these with an eye towards modern technology and standards. | Sam Jarman        | 10/6/2017  |
 | [Building a Developer Experience Team at Sendgrid](https://sendgrid.com/blog/scaling-product-management-at-sendgrid-building-a-developer-experience-team)     | As we scaled up to hundreds of employees, many new PMs, designers, and engineers ended up working on the product who didn’t share that same explicit understanding of our developer customers. Slowly, but surely, the overall DX around SendGrid suffered.                                                                                                                                                                                | Scott Williamson  | 4/12/2017  |
 | [What is API Developer Experience and Why It Matters](https://www.infoq.com/news/2015/10/api-developer-experience)                                            | API developer experience is a relatively novel focus aimed to improve API design so it provides a seamless experience to developers when writing software. It can help increase programmers’ efficience and make it easier for developers to achieve goals on behalf of end users.                                                                                                                                                         | Sergio De Simone  | 10/25/2015 |
@@ -40,14 +40,14 @@
 
 ## Events
 
-| Name | Location | Date |
-| --- | --- | --- |
-| [DevX Conf](https://devxconf.org/) | Online | 4/28/2021
+| Name                               | Location | Date      |
+| ---------------------------------- | -------- | --------- |
+| [DevX Conf](https://devxconf.org/) | Online   | 4/28/2021 |
 
 ## Jobs
 
 | Position                                                                                                                                | Company      | Location                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------|
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------- |
 | [Developer Experience Engineer](https://jobs.smartrecruiters.com/Cypressio/743999734349805-developer-experience-engineer)               | Cypress      | Atlanta                                 |
 | [Head of Developer Experience](https://boards.greenhouse.io/easypost/jobs/4641489002)                                                   | EasyPost     | San Francisco                           |
 | [Product Manager, Developer Experience](https://boards.greenhouse.io/gusto/jobs/3111792)                                                | Gusto        | San Francisco, Denver, New York, Remote |
@@ -61,11 +61,12 @@
 ### 2018 - Current
 
 | Name                                   | Description                                                                                                 | Founded Year |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ |
 | [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
+| [Nhost](https://nhost.io)              | Nhost is a open source Firebase alternative with GraphQL.                                                   | 2019         |
 | [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
 | [Railway](https://railway.app)         | Railway helps you develop code in a cloud that feels local.                                                 | 2020         |
 | [Raycast](https://raycast.com)         | Raycast lets you control your tools with a few keystrokes.                                                  | 2020         |
@@ -78,7 +79,7 @@
 ### 2014 - 2017
 
 | Name                                     | Description                                                                                                                              | Founded Year |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [CodeSandbox](https://codesandbox.io)    | CodeSandbox is a free, instant, collaborative sandboxes for rapid web development.                                                       | 2017         |
 | [CodeStream](https://codestream.com)     | CodeStream puts team chat directly into most popular IDEs, making it easier for developers to talk about code & write software together. | 2017         |
 | [Gatsby](https://gatsbyjs.com)           | Gatsby is an open source web development tool and framework which is customizable and extensible for any purpose.                        | 2015         |
@@ -98,7 +99,7 @@
 ### 2010 - 2013
 
 | Name                                     | Description                                                                                                                          | Founded Year |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Algolia](https://algolia.com)           | Algolia is a search platform that enables companies to deliver fast and relevant digital experiences.                                | 2012         |
 | [Auth0](https://auth0.com)               | Auth0 is an identity management platform for web, mobile, IoT, and internal applications.                                            | 2013         |
 | [DigitalOcean](https://digitalocean.com) | DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.                                        | 2012         |
@@ -115,7 +116,7 @@
 ### 2000 - 2009
 
 | Name                                 | Description                                                                                                                       | Founded Year |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------|
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [Cloudflare](https://cloudflare.com) | Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online.     | 2009         |
 | [GitHub](https://github.com)         | GitHub provides code hosting services that allow developers to build software for open source and private projects.               | 2008         |
 | [Heroku](https://heroku.com)         | Heroku is a platform as a service that provides services to create, run, and scale web and mobile apps.                           | 2007         |
@@ -126,7 +127,7 @@
 ## Research
 
 | Title                                                                                                                                                                 | Highlights                                                                                                                                                                                                                                                                                                  | Institution                     | Year of Publication |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------|
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------- |
 | [Towards an Empirically-Based IDE: An Analysis of Code Size and Screen Space](http://web.eecs.utk.edu/~azh/pubs/Short2019VLHCC_CodeSize.pdf)                          | The average length of functions per programming language: Java (8.87 lines) / C++ (19.48 lines) / Python (15.60) / JavaScript (21.68 lines). The average line width: Java (70.27 chars) / C++ (74.96 chars) / Python (72.75 chars) / JavaScript (66.32 chars).                                              | University of Tennessee         | 2019                |
 | [Measuring program comprehension: A large-scale field study with professionals](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4781&context=sis_research) | In a study with Java and C# projects, they found that most of the time the developer spends is with Navigation and Comprehension. Here's a summary: Comprehension (57.62%) / Navigation (23.96%) / Editing (5.02%) / Others (13.40%). Data sample: 78 developers across 7 projects over 3,148 working hours | Singapore Management University | 2018                |
 | [Developer Experience: Concept and Definition](https://arxiv.org/ftp/arxiv/papers/1312/1312.1452.pdf) | Developer experience could be defined as a means for capturing how developers think and feel about their activities within their working environments | University of Helsinki | 2012 |
@@ -134,7 +135,7 @@
 ## Videos
 
 | Title                                                                                  | Presenter         | Duration | Date       |
-|----------------------------------------------------------------------------------------|-------------------|----------|------------|
+| -------------------------------------------------------------------------------------- | ----------------- | -------- | ---------- |
 | [Things nobody told you about developer experience (DX)](https://youtu.be/gqnWoh8o36M) | DX Doctor         | 17:02    | 11/23/2019 |
 | [The only way how to have happy & productive developers](https://youtu.be/X4NSLo97Az8) | Vratislav Kalenda | 25:18    | 12/8/2018  |
 | [The Seven Deadly Sins of Developer Onboarding](https://youtu.be/JHtMN8TxUfc)          | Cristiano Betta   | 28:03    | 11/13/2017 |
