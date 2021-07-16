@@ -74,6 +74,8 @@
 | [Supabase](https://supabase.io)        | Supabase is the open source Firebase alternative.                                                           | 2020         |
 | [Temporal](https://temporal.io)        | Temporal enables its users to build and operate resilient applications using developer-friendly primitives. | 2019         |
 | [WorkOS](https://workos.com)           | WorkOS provides APIs to make applications enterprise-ready.                                                 | 2018         |
+| [Insomnia](https://insomnia.rest/)     | Insomnia is a cross-platform REST client, built on top of Electron.                                         | 2020         |
+| [Inso CLI](https://insomnia.rest/products/inso)     | Inso CLI is a CI/CD pipeline development.                                                      | 2020         |
 
 ### 2014 - 2017
 
