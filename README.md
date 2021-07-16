@@ -65,6 +65,7 @@
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
+| [Nhost](https://nhost.io)              | Nhost is a open source Firebase alternative with GraphQL.                                                   | 2019         |
 | [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
 | [Railway](https://railway.app)         | Railway helps you develop code in a cloud that feels local.                                                 | 2020         |
 | [Raycast](https://raycast.com)         | Raycast lets you control your tools with a few keystrokes.                                                  | 2020         |
