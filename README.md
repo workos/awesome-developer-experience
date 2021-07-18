@@ -86,6 +86,7 @@
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [CodeSandbox](https://codesandbox.io)    | CodeSandbox is a free, instant, collaborative sandboxes for rapid web development.                                                       | 2017         |
 | [CodeStream](https://codestream.com)     | CodeStream puts team chat directly into most popular IDEs, making it easier for developers to talk about code & write software together. | 2017         |
+| [Fauna](https://fauna.com)               | Fauna is a transactional database delivered as a scalable cloud API with native GraphQL.                        | 2015         |
 | [Gatsby](https://gatsbyjs.com)           | Gatsby is an open source web development tool and framework which is customizable and extensible for any purpose.                        | 2015         |
 | [GitLab](https://gitlab.com)             | GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.                       | 2014         |
 | [Insomnia](https://insomnia.rest/)       | Insomnia is a cross-platform REST client, built on top of Electron.                       | 2016         |
