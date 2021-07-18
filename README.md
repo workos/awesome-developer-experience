@@ -115,6 +115,7 @@
 | [Sentry](https://sentry.io)              | Sentry is a developer of an application monitoring platform that helps developers monitor apps in real time to catch bugs early.     | 2012         |
 | [Snowflake](https://snowflake.com)       | Snowflake is a cloud data platform that provides a data warehouse-as-a-service designed for the cloud.                               | 2012         |
 | [Stripe](https://stripe.com)             | Stripe is a developer-oriented commerce company helping small and large companies accept web and mobile payments.                    | 2010         |
+| [Uploadcare](https://uploadcare.com)     | Uploadcare is a file uploading, media processing & content delivery for modern web apps.                  | 2011         |
 | [Webflow](https://webflow.com)           | Webflow is a visual web design platform, CMS, and hosting provider for building production websites and prototypes.                  | 2013         |
 
 ### 2000 - 2009
