@@ -89,6 +89,7 @@
 | [Fauna](https://fauna.com)               | Fauna is a transactional database delivered as a scalable cloud API with native GraphQL.                        | 2015         |
 | [Gatsby](https://gatsbyjs.com)           | Gatsby is an open source web development tool and framework which is customizable and extensible for any purpose.                        | 2015         |
 | [GitLab](https://gitlab.com)             | GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.                       | 2014         |
+| [Hasura](https://hasura.io)             | Hasura provides instant realtime GraphQL APIs.                       | 2017         |
 | [Insomnia](https://insomnia.rest/)       | Insomnia is a cross-platform REST client, built on top of Electron.                       | 2016         |
 | [LaunchDarkly](https://launchdarkly.com) | LaunchDarkly is a feature management platform for software teams.                                                                        | 2014         |
 | [Mux](https://mux.com)                   | Mux is a video platform designed to make video streaming and analytics possible for every development team.                              | 2015         |
