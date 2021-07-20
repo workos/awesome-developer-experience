@@ -98,10 +98,12 @@
 | [PopSQL](https://popsql.com)             | PopSQL is a modern, collaborative SQL editor for teams.                                                                                  | 2017         |
 | [Postman](https://postman.com)           | Postman is the collaboration platform for API development.                                                                               | 2014         |
 | [Prisma](https://prisma.io)              | Prisma enables its users to access all of their databases in a single GraphQL query.                                                     | 2016         |
+| [RapidAPI](https://rapidapi.com)              | RapidAPI is an API marketplace that enables developers to find and connect to APIs.                                                     | 2015         |
 | [Readme](https://readme.com)             | Readme provides every company the ability to quickly create beautiful documentation, and build loyal, productive developer communities.  | 2014         |
 | [Replit](https://replit.com)             | Replit is a browser-based integrated development environment (IDE) built for cross-platform collaborative coding.                        | 2016         |
 | [Retool](https://retool.com)             | Retool is a fast way of building internal applications.                                                                                  | 2017         |
 | [Split](https://split.io)                | Split is a feature delivery platform that builds software for engineering teams to build products.                                       | 2015         |
+| [Strapi](https://split.io)                | Strapi helps developers to easily build, deploy, and manage APIs.                                       | 2016         |
 | [Vercel](https://vercel.com)             | Vercel combines the best developer experience with an obsessive focus on end-user performance.                                           | 2015         |
 
 ### 2010 - 2013
