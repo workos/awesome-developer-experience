@@ -67,6 +67,7 @@
 | [Appwrite](https://appwrite.io)   | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment                                                                                                                         | 2020         |
 | [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
+| [Doppler](https://doppler.com)       | Doppler helps developers manage their API keys across their projects.                              | 2018         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Gitpod](https://gitpod.io)                  | Gitpod automates the provisioning of ready-to-code development environments.                                          | 2019         |
 | [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
