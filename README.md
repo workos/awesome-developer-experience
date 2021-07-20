@@ -110,12 +110,18 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Algolia](https://algolia.com)           | Algolia is a search platform that enables companies to deliver fast and relevant digital experiences.                                | 2012         |
 | [Auth0](https://auth0.com)               | Auth0 is an identity management platform for web, mobile, IoT, and internal applications.                                            | 2013         |
+| [Datadog](https://datadoghq.com) | Datadog offers monitoring and analytics for cloud-based workflows.                                        | 2010         |
 | [DigitalOcean](https://digitalocean.com) | DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.                                        | 2012         |
+| [Docker](https://docker.com)             | Docker provides an open platform for building, shipping, and running distributed applications.                                        | 2013         |
+| [Elastic](https://elastic.co)             | Elastic makes data usable in real time and at scale for search, logging, and analytics.                                        | 2012         |
 | [Expo](https://expo.io)                  | Expo lets developers build universal native apps that work across Android, iOS, and the web by writing them once in just JavaScript. | 2013         |
 | [Firebase](https://firebase.google.com)  | Firebase is a mobile platform that develops apps that grow users base on iOS, Android, or the Web.                                   | 2011         |
 | [HashiCorp](https://hashicorp.com)       | HashiCorp is a company that solves development, security, and operations challenges in infrastructure.                               | 2012         |
 | [Nylas](https://nylas.com)               | Nylas provides an API platform that enables developers to quickly and process user data from any email and calendar.                 | 2013         |
 | [Plaid](https://plaid.com)               | Plaid provides companies with the tools and access needed for the development of a digitally-enabled financial system.               | 2013         |
+| [Pusher](https://elastic.co)             | Pusher provides a hosted API service for adding real-time bi-directional.                                        | 2010         |
+| [Runscope](https://runscope.com)         | Runscope develops tools that support the modern application development life cycle.                                        | 2013         |
+| [Segment](https://segment.com)         | Segment provides infrastructure to collect, unify, and connect data among different providers.                                        | 2011         |
 | [Sentry](https://sentry.io)              | Sentry is a developer of an application monitoring platform that helps developers monitor apps in real time to catch bugs early.     | 2012         |
 | [Snowflake](https://snowflake.com)       | Snowflake is a cloud data platform that provides a data warehouse-as-a-service designed for the cloud.                               | 2012         |
 | [Stripe](https://stripe.com)             | Stripe is a developer-oriented commerce company helping small and large companies accept web and mobile payments.                    | 2010         |
