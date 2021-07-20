@@ -63,6 +63,7 @@
 
 | Name                                   | Description                                                                                                 | Founded Year |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ |
+| [Apideck](https://apideck.com)   | Apideck provides access to a single integration layer with a rapidly growing ecosystem of APIs.                                                                                                                         | 2018         |
 | [Appwrite](https://appwrite.io)   | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment                                                                                                                         | 2020         |
 | [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
