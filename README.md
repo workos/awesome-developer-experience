@@ -132,11 +132,17 @@
 
 | Name                                 | Description                                                                                                                       | Founded Year |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Atlassian](https://atlassian.com)  | Atlassian provides collaboration, development, and issue tracking software for teams.     | 2002         |
 | [Cloudflare](https://cloudflare.com) | Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online.     | 2009         |
+| [Dynatrace](https://dynatrace.com)  | Dynatrace helps DevSecOps teams tame cloud complexity and accelerate digital transformation.     | 2005         |
 | [GitHub](https://github.com)         | GitHub provides code hosting services that allow developers to build software for open source and private projects.               | 2008         |
 | [Heroku](https://heroku.com)         | Heroku is a platform as a service that provides services to create, run, and scale web and mobile apps.                           | 2007         |
+| [JetBrains](https://jetbrains.com)         | JetBrains is a software vendor specializing in the creation of productivity-enhancing tools for software developers and teams.                           | 2007         |
 | [Liferay](https://liferay.com)       | Liferay makes software that helps companies create digital experiences on web, mobile and connected devices.                      | 2004         |
 | [MongoDB](https://mongodb.com)       | MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. | 2007         |
+| [MuleSoft](https://mulesoft.com)       | MuleSoft makes it easy to connect data from any system to create connected experiences. | 2006         |
+| [OutSystems](https://outsystems.com)       | OutSystems is a low-code platform that enables businesses to develop, deploy, and manage enterprise-grade apps. | 2001         |
+| [Splunk](https://splunk.com)       | Splunk provides software that monitors, reports, and analyzes real-time machine data. | 2002         |
 | [Twilio](https://twilio.com)         | Twilio is a cloud communication company that enables users to build voice, VoIP, and SMS apps via a web API.                      | 2008         |
 
 ## Research
