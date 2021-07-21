@@ -70,6 +70,7 @@
 | [Doppler](https://doppler.com)       | Doppler helps developers manage their API keys across their projects.                              | 2018         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Gitpod](https://gitpod.io)                  | Gitpod automates the provisioning of ready-to-code development environments.                                          | 2019         |
+| [Inspect](https://inspect.dev)                  | Inspect helps you debug mobile web apps and websites on iOS devices.                                          | 2020         |
 | [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
 | [Nhost](https://nhost.io)              | Nhost is a open source Firebase alternative with GraphQL.                                                   | 2019         |
 | [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
