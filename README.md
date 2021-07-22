@@ -124,7 +124,7 @@
 | [HashiCorp](https://hashicorp.com)       | HashiCorp is a company that solves development, security, and operations challenges in infrastructure.                               | 2012         |
 | [Nylas](https://nylas.com)               | Nylas provides an API platform that enables developers to quickly and process user data from any email and calendar.                 | 2013         |
 | [Plaid](https://plaid.com)               | Plaid provides companies with the tools and access needed for the development of a digitally-enabled financial system.               | 2013         |
-| [Pusher](https://elastic.co)             | Pusher provides a hosted API service for adding real-time bi-directional.                                        | 2010         |
+| [Pusher](https://pusher.com)             | Pusher provides a hosted API service for adding real-time bi-directional.                                        | 2010         |
 | [Runscope](https://runscope.com)         | Runscope develops tools that support the modern application development life cycle.                                        | 2013         |
 | [Segment](https://segment.com)         | Segment provides infrastructure to collect, unify, and connect data among different providers.                                        | 2011         |
 | [Sentry](https://sentry.io)              | Sentry is a developer of an application monitoring platform that helps developers monitor apps in real time to catch bugs early.     | 2012         |
