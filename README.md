@@ -56,6 +56,8 @@
 | [Software Engineer, Developer Experience](https://www.smartrecruiters.com/Square/743999745776124)                                       | Square       | San Francisco                           |
 | [Product Manager, Developer Experience](https://www.smartrecruiters.com/Square/743999733946053)                                         | Square       | San Francisco                           |
 | [Senior Engineer, Developer Experience](https://www.indeed.com/viewjob?jk=4c099aa06363b611)                                             | Ticketmaster | Remote (US)                             |
+| [Engineer, Developer Experience](https://www.chromatic.com/company/jobs/developer-experience-engineer)                                  | Chromatic    | Remote                           |
+| [Community Engineer, Developer Experience](https://www.chromatic.com/company/jobs/developer-experience-community-engineer)              | Chromatic    | Remote                           |
 
 ## Products
 
@@ -67,6 +69,7 @@
 | [Appwrite](https://appwrite.io)   | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment                                                                                                                         | 2020         |
 | [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
+| [Chromatic](https://www.chromatic.com) | Chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.                             | 2017         |
 | [Doppler](https://doppler.com)       | Doppler helps developers manage their API keys across their projects.                              | 2018         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Flightcontrol](https://flightcontrol.dev/)                  | Fullstack Deploy Platform that brings Vercel's world-class DX to your own cloud. Supports both containers & serverless functions, and is optimized for fullstack Next.js & Blitz.js apps                                          | 2021         |
