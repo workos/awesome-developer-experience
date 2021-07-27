@@ -105,8 +105,8 @@
 | [Netlify](https://netlify.com)           | Netlify is a unified platform that automates code to create high-performant, easily-maintainable sites, and web-apps.                    | 2014         |
 | [PopSQL](https://popsql.com)             | PopSQL is a modern, collaborative SQL editor for teams.                                                                                  | 2017         |
 | [Postman](https://postman.com)           | Postman is the collaboration platform for API development.                                                                               | 2014         |
-| [Prisma](https://prisma.io)              | Prisma enables its users to access all of their databases in a single GraphQL query.                                                     | 2016         |
-| [RapidAPI](https://rapidapi.com)              | RapidAPI is an API marketplace that enables developers to find and connect to APIs.                                                     | 2015         |
+| [Prisma](https://prisma.io)              | Next-generation Node.js and TypeScript ORM that helps app developers build faster and make fewer errors.                                 | 2016         |
+| [RapidAPI](https://rapidapi.com)         | RapidAPI is an API marketplace that enables developers to find and connect to APIs.                                                      | 2015         |
 | [Readme](https://readme.com)             | Readme provides every company the ability to quickly create beautiful documentation, and build loyal, productive developer communities.  | 2014         |
 | [Replit](https://replit.com)             | Replit is a browser-based integrated development environment (IDE) built for cross-platform collaborative coding.                        | 2016         |
 | [Retool](https://retool.com)             | Retool is a fast way of building internal applications.                                                                                  | 2017         |
