@@ -75,6 +75,7 @@
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Flightcontrol](https://flightcontrol.dev/)                  | Fullstack Deploy Platform that brings Vercel's world-class DX to your own cloud. Supports both containers & serverless functions, and is optimized for fullstack Next.js & Blitz.js apps                                          | 2021         |
 | [Gitpod](https://gitpod.io)                  | Gitpod automates the provisioning of ready-to-code development environments.                                          | 2019         |
+| [HostedHooks](https://hostedhooks.com)                  | HostedHooks is a webhooks sending as a service platform for developers                                           | 2021         |
 | [Inspect](https://inspect.dev)                  | Inspect helps you debug mobile web apps and websites on iOS devices.                                          | 2020         |
 | [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
 | [Modulz](https://modulz.app)           | Closing the gap between design and dev. Building open source libraries such as Radix and Stitches.          | 2018         |
