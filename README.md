@@ -56,33 +56,41 @@
 | [Software Engineer, Developer Experience](https://www.smartrecruiters.com/Square/743999745776124)                                       | Square       | San Francisco                           |
 | [Product Manager, Developer Experience](https://www.smartrecruiters.com/Square/743999733946053)                                         | Square       | San Francisco                           |
 | [Senior Engineer, Developer Experience](https://www.indeed.com/viewjob?jk=4c099aa06363b611)                                             | Ticketmaster | Remote (US)                             |
+| [Engineer, Developer Experience](https://www.chromatic.com/company/jobs/developer-experience-engineer)                                  | Chromatic    | Remote                           |
+| [Community Engineer, Developer Experience](https://www.chromatic.com/company/jobs/developer-experience-community-engineer)              | Chromatic    | Remote                           |
 
 ## Products
 
 ### 2018 - Current
 
-| Name                                        | Description                                                                                                                                                                              | Founded Year |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Apideck](https://apideck.com)              | Apideck provides access to a single integration layer with a rapidly growing ecosystem of APIs.                                                                                          | 2018         |
-| [Appwrite](https://appwrite.io)             | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment                                | 2020         |
-| [Bannerbear](https://bannerbear.com)        | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                                                                                             | 2019         |
-| [Budibase](https://budibase.com)            | Budibase helps you build internal tools on your own infrastructure in minutes.                                                                                                           | 2019         |
-| [Doppler](https://doppler.com)              | Doppler helps developers manage their API keys across their projects.                                                                                                                    | 2018         |
-| [Fig](https://fig.io)                       | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                                                                                                       | 2020         |
-| [Flightcontrol](https://flightcontrol.dev/) | Fullstack Deploy Platform that brings Vercel's world-class DX to your own cloud. Supports both containers & serverless functions, and is optimized for fullstack Next.js & Blitz.js apps | 2021         |
-| [Gitpod](https://gitpod.io)                 | Gitpod automates the provisioning of ready-to-code development environments.                                                                                                             | 2019         |
-| [Inspect](https://inspect.dev)              | Inspect helps you debug mobile web apps and websites on iOS devices.                                                                                                                     | 2020         |
-| [Linear](https://linear.app)                | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                                                                                             | 2019         |
-| [Nhost](https://nhost.io)                   | Nhost is a open source Firebase alternative with GraphQL.                                                                                                                                | 2019         |
-| [PlanetScale](https://planetscale.com)      | PlanetScale is a serverless database platform that you can start in seconds.                                                                                                             | 2018         |
-| [Railway](https://railway.app)              | Railway helps you develop code in a cloud that feels local.                                                                                                                              | 2020         |
-| [Raycast](https://raycast.com)              | Raycast lets you control your tools with a few keystrokes.                                                                                                                               | 2020         |
-| [Render](https://render.com)                | Render is a unified cloud to build and run all your apps and websites.                                                                                                                   | 2018         |
-| [Roboflow](https://roboflow.com)            | Roboflow is a developer tool for building computer vision models faster and more accurately.                                                                                             | 2019         |
-| [Supabase](https://supabase.io)             | Supabase is the open source Firebase alternative.                                                                                                                                        | 2020         |
-| [SuperTokens](https://supertokens.io)       | SuperTokens is an open source alternative to Auth0, Okta, Firebase Auth and AWS Cognito.                                                                                                 | 2019         |
-| [Temporal](https://temporal.io)             | Temporal enables its users to build and operate resilient applications using developer-friendly primitives.                                                                              | 2019         |
-| [WorkOS](https://workos.com)                | WorkOS provides APIs to make applications enterprise-ready.                                                                                                                              | 2018         |
+| Name                                   | Description                                                                                                 | Founded Year |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ |
+| [Apideck](https://apideck.com)   | Apideck provides access to a single integration layer with a rapidly growing ecosystem of APIs.                                                                                                                         | 2018         |
+| [Appwrite](https://appwrite.io)   | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment                                                                                                                         | 2020         |
+| [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
+| [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
+| [Chromatic](https://www.chromatic.com) | Chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.                             | 2017         |
+| [Doppler](https://doppler.com)       | Doppler helps developers manage their API keys across their projects.                              | 2018         |
+| [Feedback Fish](https://feedback.fish/)                  | A simple way to collect feedback & make your customers happy.                                          | 2020         |
+| [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
+| [Flightcontrol](https://flightcontrol.dev/)                  | Fullstack Deploy Platform that brings Vercel's world-class DX to your own cloud. Supports both containers & serverless functions, and is optimized for fullstack Next.js & Blitz.js apps                                          | 2021         |
+| [Gitpod](https://gitpod.io)                  | Gitpod automates the provisioning of ready-to-code development environments.                                          | 2019         |
+| [HostedHooks](https://hostedhooks.com)                  | HostedHooks is a webhooks sending as a service platform for developers                                           | 2021         |
+| [Inspect](https://inspect.dev)                  | Inspect helps you debug mobile web apps and websites on iOS devices.                                          | 2020         |
+| [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
+| [Modulz](https://modulz.app)           | Closing the gap between design and dev. Building open source libraries such as Radix and Stitches.          | 2018         |
+| [Nhost](https://nhost.io)              | Nhost is a open source Firebase alternative with GraphQL.                                                   | 2019         |
+| [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
+| [Prefect](https://prefect.io)          | Prefect is the easiest way to automate data pipelines.                                                      | 2018         |
+| [Railway](https://railway.app)         | Railway helps you develop code in a cloud that feels local.                                                 | 2020         |
+| [Raycast](https://raycast.com)         | Raycast lets you control your tools with a few keystrokes.                                                  | 2020         |
+| [Render](https://render.com)           | Render is a unified cloud to build and run all your apps and websites.                                      | 2018         |
+| [Roboflow](https://roboflow.com)       | Roboflow is a developer tool for building computer vision models faster and more accurately.                | 2019         |
+| [Supabase](https://supabase.io)        | Supabase is the open source Firebase alternative.                                                           | 2020         |
+| [SuperTokens](https://supertokens.io)  | SuperTokens is an open source alternative to Auth0, Okta, Firebase Auth and AWS Cognito.                                                           | 2019         |
+| [Svix](https://www.svix.com)  | Svix makes sending webhooks easy and reliable by offering webhooks sending as a service.                             | 2021         |
+| [Temporal](https://temporal.io)        | Temporal enables its users to build and operate resilient applications using developer-friendly primitives. | 2019         |
+| [WorkOS](https://workos.com)           | WorkOS provides APIs to make applications enterprise-ready.                                                 | 2018         |
 
 ### 2014 - 2017
 
@@ -90,11 +98,13 @@
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [CodeSandbox](https://codesandbox.io)    | CodeSandbox is a free, instant, collaborative sandboxes for rapid web development.                                                       | 2017         |
 | [CodeStream](https://codestream.com)     | CodeStream puts team chat directly into most popular IDEs, making it easier for developers to talk about code & write software together. | 2017         |
-| [Fauna](https://fauna.com)               | Fauna is a transactional database delivered as a scalable cloud API with native GraphQL.                                                 | 2015         |
+| [Fauna](https://fauna.com)               | Fauna is a transactional database delivered as a scalable cloud API with native GraphQL.                        | 2015         |
+| [Formspree](https://formspree.io)               | Formspree lets developers add working forms to their website in minutes, no backend needed.                    | 2015         |
 | [Gatsby](https://gatsbyjs.com)           | Gatsby is an open source web development tool and framework which is customizable and extensible for any purpose.                        | 2015         |
 | [GitLab](https://gitlab.com)             | GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.                       | 2014         |
-| [Hasura](https://hasura.io)              | Hasura provides instant realtime GraphQL APIs.                                                                                           | 2017         |
-| [Insomnia](https://insomnia.rest/)       | Insomnia is a cross-platform REST client, built on top of Electron.                                                                      | 2016         |
+| [GraphCMS](https://graphcms.com)               | GraphCMS is the GraphQL-native Headless Content Platform to create, enrich, federate, and deliver content programmatically and API-first with versatile GraphQL content APIs and a novel approach in external data sourcing.                        | 2017         |
+| [Hasura](https://hasura.io)             | Hasura provides instant realtime GraphQL APIs.                       | 2017         |
+| [Insomnia](https://insomnia.rest/)       | Insomnia is a cross-platform REST client, built on top of Electron.                       | 2016         |
 | [LaunchDarkly](https://launchdarkly.com) | LaunchDarkly is a feature management platform for software teams.                                                                        | 2014         |
 | [Mux](https://mux.com)                   | Mux is a video platform designed to make video streaming and analytics possible for every development team.                              | 2015         |
 | [Netlify](https://netlify.com)           | Netlify is a unified platform that automates code to create high-performant, easily-maintainable sites, and web-apps.                    | 2014         |
@@ -115,7 +125,8 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Algolia](https://algolia.com)           | Algolia is a search platform that enables companies to deliver fast and relevant digital experiences.                                | 2012         |
 | [Auth0](https://auth0.com)               | Auth0 is an identity management platform for web, mobile, IoT, and internal applications.                                            | 2013         |
-| [Datadog](https://datadoghq.com)         | Datadog offers monitoring and analytics for cloud-based workflows.                                                                   | 2010         |
+| [BrowserStack](https://www.browserstack.com/)   | BrowserStack provides seamless testing experience on 2000+ real devices & browsers.                                            | 2011         |
+| [Datadog](https://datadoghq.com) | Datadog offers monitoring and analytics for cloud-based workflows.                                        | 2010         |
 | [DigitalOcean](https://digitalocean.com) | DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.                                        | 2012         |
 | [Docker](https://docker.com)             | Docker provides an open platform for building, shipping, and running distributed applications.                                       | 2013         |
 | [Elastic](https://elastic.co)            | Elastic makes data usable in real time and at scale for search, logging, and analytics.                                              | 2012         |
@@ -123,10 +134,11 @@
 | [Firebase](https://firebase.google.com)  | Firebase is a mobile platform that develops apps that grow users base on iOS, Android, or the Web.                                   | 2011         |
 | [HashiCorp](https://hashicorp.com)       | HashiCorp is a company that solves development, security, and operations challenges in infrastructure.                               | 2012         |
 | [Nylas](https://nylas.com)               | Nylas provides an API platform that enables developers to quickly and process user data from any email and calendar.                 | 2013         |
+| [Mailtrap](https://mailtrap.io/)               | Mailtrap provides a Email sandbox service.                | 2011         |
 | [Plaid](https://plaid.com)               | Plaid provides companies with the tools and access needed for the development of a digitally-enabled financial system.               | 2013         |
-| [Pusher](https://elastic.co)             | Pusher provides a hosted API service for adding real-time bi-directional.                                                            | 2010         |
-| [Runscope](https://runscope.com)         | Runscope develops tools that support the modern application development life cycle.                                                  | 2013         |
-| [Segment](https://segment.com)           | Segment provides infrastructure to collect, unify, and connect data among different providers.                                       | 2011         |
+| [Pusher](https://pusher.com)             | Pusher provides a hosted API service for adding real-time bi-directional.                                        | 2010         |
+| [Runscope](https://runscope.com)         | Runscope develops tools that support the modern application development life cycle.                                        | 2013         |
+| [Segment](https://segment.com)         | Segment provides infrastructure to collect, unify, and connect data among different providers.                                        | 2011         |
 | [Sentry](https://sentry.io)              | Sentry is a developer of an application monitoring platform that helps developers monitor apps in real time to catch bugs early.     | 2012         |
 | [Snowflake](https://snowflake.com)       | Snowflake is a cloud data platform that provides a data warehouse-as-a-service designed for the cloud.                               | 2012         |
 | [Stripe](https://stripe.com)             | Stripe is a developer-oriented commerce company helping small and large companies accept web and mobile payments.                    | 2010         |
