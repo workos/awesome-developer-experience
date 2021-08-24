@@ -88,6 +88,7 @@
 | [Roboflow](https://roboflow.com)       | Roboflow is a developer tool for building computer vision models faster and more accurately.                | 2019         |
 | [Supabase](https://supabase.io)        | Supabase is the open source Firebase alternative.                                                           | 2020         |
 | [SuperTokens](https://supertokens.io)  | SuperTokens is an open source alternative to Auth0, Okta, Firebase Auth and AWS Cognito.                                                           | 2019         |
+| [Svix](https://www.svix.com)  | Svix makes sending webhooks easy and reliable by offering webhooks sending as a service.                             | 2021         |
 | [Temporal](https://temporal.io)        | Temporal enables its users to build and operate resilient applications using developer-friendly primitives. | 2019         |
 | [WorkOS](https://workos.com)           | WorkOS provides APIs to make applications enterprise-ready.                                                 | 2018         |
 
