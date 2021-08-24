@@ -125,6 +125,7 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
 | [Algolia](https://algolia.com)           | Algolia is a search platform that enables companies to deliver fast and relevant digital experiences.                                | 2012         |
 | [Auth0](https://auth0.com)               | Auth0 is an identity management platform for web, mobile, IoT, and internal applications.                                            | 2013         |
+| [BrowserStack](https://www.browserstack.com/)   | BrowserStack provides seamless testing experience on 2000+ real devices & browsers.                                            | 2011         |
 | [Datadog](https://datadoghq.com) | Datadog offers monitoring and analytics for cloud-based workflows.                                        | 2010         |
 | [DigitalOcean](https://digitalocean.com) | DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.                                        | 2012         |
 | [Docker](https://docker.com)             | Docker provides an open platform for building, shipping, and running distributed applications.                                        | 2013         |
