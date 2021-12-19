@@ -91,6 +91,7 @@
 | [Svix](https://www.svix.com)  | Svix makes sending webhooks easy and reliable by offering webhooks sending as a service.                             | 2021         |
 | [Sturdy](https://getsturdy.com) | Real-Time Version Control. Share, and iterate on code together. Like Slack instead of email when coding as a team. | 2021         |
 | [Temporal](https://temporal.io)        | Temporal enables its users to build and operate resilient applications using developer-friendly primitives. | 2019         |
+| [Warrant](https://warrant.dev)         | Warrant provides APIs and infrastructure to help developers implement authorization and access control in their apps. | 2021 |
 | [WorkOS](https://workos.com)           | WorkOS provides APIs to make applications enterprise-ready.                                                 | 2018         |
 
 ### 2014 - 2017
