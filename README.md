@@ -93,6 +93,7 @@
 | [Temporal](https://temporal.io)        | Temporal enables its users to build and operate resilient applications using developer-friendly primitives. | 2019         |
 | [Warrant](https://warrant.dev)         | Warrant provides APIs and infrastructure to help developers implement authorization and access control in their apps. | 2021 |
 | [WorkOS](https://workos.com)           | WorkOS provides APIs to make applications enterprise-ready.                                                 | 2018         |
+| [JSONT](https://www.jsont.run/)        | An online simple and powerfull JSON formatting tool.                                                        | 2022         |
 
 ### 2014 - 2017
 
