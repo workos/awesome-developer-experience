@@ -122,6 +122,7 @@
 | [Split](https://split.io)                | Split is a feature delivery platform that builds software for engineering teams to build products.                                       | 2015         |
 | [Strapi](https://split.io)               | Strapi helps developers to easily build, deploy, and manage APIs.                                                                        | 2016         |
 | [Vercel](https://vercel.com)             | Vercel combines the best developer experience with an obsessive focus on end-user performance.                                           | 2015         |
+| [LambdaTest](https://www.lambdatest.com/)             | LambdaTest provides seamless testing experience on 3000+ real devices & browsers.                                           | 2017         |
 
 ### 2010 - 2013
 
