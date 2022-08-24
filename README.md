@@ -180,8 +180,10 @@
 
 | Title                                                                                  | Presenter         | Duration | Date       |
 | -------------------------------------------------------------------------------------- | ----------------- | -------- | ---------- |
+| [Building DevX Teams](https://youtu.be/xX5zeVy8Ta4)                                    | Cirpo Cinelli     | 42:04    | 5/5/2022   |
 | [Things nobody told you about developer experience (DX)](https://youtu.be/gqnWoh8o36M) | DX Doctor         | 17:02    | 11/23/2019 |
 | [The only way how to have happy & productive developers](https://youtu.be/X4NSLo97Az8) | Vratislav Kalenda | 25:18    | 12/8/2018  |
 | [The Seven Deadly Sins of Developer Onboarding](https://youtu.be/JHtMN8TxUfc)          | Cristiano Betta   | 28:03    | 11/13/2017 |
 | [JS UX: Writing code for humans](https://youtu.be/loj3CLHovt0)                         | Lea Verou         | 1:09:04  | 9/26/2016  |
 | [The Elements of Developer Experience (DX) Design](https://youtu.be/lQdeWHPgoMs)       | Stephen Boak      | 5:24     | 8/4/2016   |
+
