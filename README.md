@@ -81,6 +81,7 @@
 | [Inspect](https://inspect.dev)                  | Inspect helps you debug mobile web apps and websites on iOS devices.                                          | 2020         |
 | [Knock](https://knock.app)                  | Knock is a notifications-as-a-service platform. Send notifications to multiple channels such as in-app, email, push, Slack and more with a single API call.                                          | 2021         |
 | [Linear](https://linear.app)           | Linear helps streamline software projects, sprints, tasks, and bug tracking.                                | 2019         |
+| [Livecycle](https://livecycle.io)           | Livecycle is the inclusive, async collaboration platform for product-centric teams.                                | 2022         |
 | [Modulz](https://modulz.app)           | Closing the gap between design and dev. Building open source libraries such as Radix and Stitches.          | 2018         |
 | [Nhost](https://nhost.io)              | Nhost is a open source Firebase alternative with GraphQL.                                                   | 2019         |
 | [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
