@@ -180,6 +180,7 @@
 
 | Title                                                                                  | Presenter         | Duration | Date       |
 | -------------------------------------------------------------------------------------- | ----------------- | -------- | ---------- |
+| [The Next Generation of Developer-First Products](https://youtu.be/ja-Pr58FCIQ)                                    | Zeno Rocha     | 43:41    | 5/5/2022   |
 | [Building DevX Teams](https://youtu.be/xX5zeVy8Ta4)                                    | Cirpo Cinelli     | 42:04    | 5/5/2022   |
 | [Things nobody told you about developer experience (DX)](https://youtu.be/gqnWoh8o36M) | DX Doctor         | 17:02    | 11/23/2019 |
 | [The only way how to have happy & productive developers](https://youtu.be/X4NSLo97Az8) | Vratislav Kalenda | 25:18    | 12/8/2018  |
