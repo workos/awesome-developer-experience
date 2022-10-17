@@ -77,6 +77,7 @@
 | [Feedback Fish](https://feedback.fish/)                  | A simple way to collect feedback & make your customers happy.                                          | 2020         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
 | [Flightcontrol](https://flightcontrol.dev/)                  | Fullstack Deploy Platform that brings Vercel's world-class DX to your own cloud. Supports both containers & serverless functions, and is optimized for fullstack Next.js & Blitz.js apps                                          | 2021         |
+| [Foresight](https://runforesight.com)                  | Observability powerup to GitHub Actions. Foresight provides full visibility and deep insights into the health and performance of your tests and CI/CD pipelines.                                          | 2021         |
 | [Gitpod](https://gitpod.io)                  | Gitpod automates the provisioning of ready-to-code development environments.                                          | 2019         |
 | [HostedHooks](https://hostedhooks.com)                  | HostedHooks is a webhooks sending as a service platform for developers                                           | 2021         |
 | [Inspect](https://inspect.dev)                  | Inspect helps you debug mobile web apps and websites on iOS devices.                                          | 2020         |
