@@ -115,6 +115,7 @@
 | [Hasura](https://hasura.io)             | Hasura provides instant realtime GraphQL APIs.                       | 2017         |
 | [Insomnia](https://insomnia.rest/)       | Insomnia is a cross-platform REST client, built on top of Electron.                       | 2016         |
 | [LaunchDarkly](https://launchdarkly.com) | LaunchDarkly is a feature management platform for software teams.                                                                        | 2014         |
+| [Mia-Platform](https://mia-platform.eu/) | Mia-Platform is a Developer Hub that manages the end-to-end life cycle of cloud native applications and simplifies the life of Dev and Ops. | 2016         |
 | [Mux](https://mux.com)                   | Mux is a video platform designed to make video streaming and analytics possible for every development team.                              | 2015         |
 | [Netlify](https://netlify.com)           | Netlify is a unified platform that automates code to create high-performant, easily-maintainable sites, and web-apps.                    | 2014         |
 | [PopSQL](https://popsql.com)             | PopSQL is a modern, collaborative SQL editor for teams.                                                                                  | 2017         |
