@@ -73,6 +73,7 @@
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
 | [Cerbos](https://cerbos.dev)         | Cerbos is decoupled, open-source and low-toil application access control. | 2021 |
 | [Chromatic](https://www.chromatic.com) | Chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.                             | 2017         |
+| [DeveloperHub.io](https://developerhub.io)       | Documentation tool to write, publish, review, analyse and collect feedback on personalised customer-facing API docs.                              | 2018         |
 | [Doppler](https://doppler.com)       | Doppler helps developers manage their API keys across their projects.                              | 2018         |
 | [Feedback Fish](https://feedback.fish/)                  | A simple way to collect feedback & make your customers happy.                                          | 2020         |
 | [Fig](https://fig.io)                  | Fig adds visual apps, shortcuts, and autocomplete to the terminal.                                          | 2020         |
