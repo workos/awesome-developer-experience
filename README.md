@@ -143,6 +143,7 @@
 | [Expo](https://expo.io)                  | Expo lets developers build universal native apps that work across Android, iOS, and the web by writing them once in just JavaScript. | 2013         |
 | [Firebase](https://firebase.google.com)  | Firebase is a mobile platform that develops apps that grow users base on iOS, Android, or the Web.                                   | 2011         |
 | [HashiCorp](https://hashicorp.com)       | HashiCorp is a company that solves development, security, and operations challenges in infrastructure.                               | 2012         |
+| [Kinsta](https://kinsta.com/)                  | Kinsta is a unified cloud hosting to build and run all your apps and websites.                                          | 2013         |
 | [Nylas](https://nylas.com)               | Nylas provides an API platform that enables developers to quickly and process user data from any email and calendar.                 | 2013         |
 | [Mailtrap](https://mailtrap.io/)               | Mailtrap provides a Email sandbox service.                | 2011         |
 | [Plaid](https://plaid.com)               | Plaid provides companies with the tools and access needed for the development of a digitally-enabled financial system.               | 2013         |
