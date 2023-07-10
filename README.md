@@ -85,6 +85,7 @@
 | [Livecycle](https://livecycle.io)           | Livecycle is the inclusive, async collaboration platform for product-centric teams.                                | 2022         |
 | [Modulz](https://modulz.app)           | Closing the gap between design and dev. Building open source libraries such as Radix and Stitches.          | 2018         |
 | [Nhost](https://nhost.io)              | Nhost is a open source Firebase alternative with GraphQL.                                                   | 2019         |
+| [OpenMeter](https://openmeter.io)      | OpenMeter is an open source usage metering solution for DevOps and Infrastructure use cases.                | 2023         |
 | [PlanetScale](https://planetscale.com) | PlanetScale is a serverless database platform that you can start in seconds.                                | 2018         |
 | [Port](https://www.getport.io) | Port is a unified and self service Developer Portal | 2022 |
 | [Prefect](https://prefect.io)          | Prefect is the easiest way to automate data pipelines.                                                      | 2018         |
