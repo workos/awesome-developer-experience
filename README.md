@@ -164,7 +164,7 @@
 | [Dynatrace](https://dynatrace.com)   | Dynatrace helps DevSecOps teams tame cloud complexity and accelerate digital transformation.                                      | 2005         |
 | [GitHub](https://github.com)         | GitHub provides code hosting services that allow developers to build software for open source and private projects.               | 2008         |
 | [Heroku](https://heroku.com)         | Heroku is a platform as a service that provides services to create, run, and scale web and mobile apps.                           | 2007         |
-| [JetBrains](https://jetbrains.com)   | JetBrains is a software vendor specializing in the creation of productivity-enhancing tools for software developers and teams.    | 2007         |
+| [JetBrains](https://jetbrains.com)   | JetBrains is a software vendor specializing in the creation of productivity-enhancing tools for software developers and teams.    | 2000         |
 | [Liferay](https://liferay.com)       | Liferay makes software that helps companies create digital experiences on web, mobile and connected devices.                      | 2004         |
 | [MongoDB](https://mongodb.com)       | MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. | 2007         |
 | [MuleSoft](https://mulesoft.com)     | MuleSoft makes it easy to connect data from any system to create connected experiences.                                           | 2006         |
