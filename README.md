@@ -49,17 +49,12 @@
 
 ## Jobs
 
-| Position                                                                                                                                | Company      | Location                                |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------- |
-| [Developer Experience Engineer](https://jobs.smartrecruiters.com/Cypressio/743999734349805-developer-experience-engineer)               | Cypress      | Atlanta                                 |
-| [Head of Developer Experience](https://boards.greenhouse.io/easypost/jobs/4641489002)                                                   | EasyPost     | San Francisco                           |
-| [Product Manager, Developer Experience](https://boards.greenhouse.io/gusto/jobs/3111792)                                                | Gusto        | San Francisco, Denver, New York, Remote |
-| [Sr Director, Developer Experience](https://lensa.com/sr-director-developer-experience-jobs/austin/jd/3a9dd4006611a15d38bf95acb25d0e2f) | Paypal       | Remote (US)                             |
-| [Software Engineer, Developer Experience](https://www.smartrecruiters.com/Square/743999745776124)                                       | Square       | San Francisco                           |
-| [Product Manager, Developer Experience](https://www.smartrecruiters.com/Square/743999733946053)                                         | Square       | San Francisco                           |
-| [Senior Engineer, Developer Experience](https://www.indeed.com/viewjob?jk=4c099aa06363b611)                                             | Ticketmaster | Remote (US)                             |
-| [Engineer, Developer Experience](https://www.chromatic.com/company/jobs/developer-experience-engineer)                                  | Chromatic    | Remote                           |
-| [Community Engineer, Developer Experience](https://www.chromatic.com/company/jobs/developer-experience-community-engineer)              | Chromatic    | Remote                           |
+| Position                                                                                                                                | Company      | Location      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------- |
+| [Sr Director, Developer Experience](https://lensa.com/sr-director-developer-experience-jobs/austin/jd/3a9dd4006611a15d38bf95acb25d0e2f) | Paypal       | Remote (US)   |
+| [Software Engineer, Developer Experience](https://www.smartrecruiters.com/Square/743999745776124)                                       | Square       | San Francisco |
+| [Product Manager, Developer Experience](https://www.smartrecruiters.com/Square/743999733946053)                                         | Square       | San Francisco |
+| [Senior Engineer, Developer Experience](https://www.indeed.com/viewjob?jk=4c099aa06363b611)                                             | Ticketmaster | Remote (US)   |
 
 ## Products
 
