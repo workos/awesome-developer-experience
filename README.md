@@ -92,6 +92,7 @@
 | [Railway](https://railway.app)         | Railway helps you develop code in a cloud that feels local.                                                 | 2020         |
 | [Raycast](https://raycast.com)         | Raycast lets you control your tools with a few keystrokes.                                                  | 2020         |
 | [Render](https://render.com)           | Render is a unified cloud to build and run all your apps and websites.                                      | 2018         |
+| [Resend](https://resend.com)           | Resend is an email API for developers.                                                                      | 2023         |
 | [Roboflow](https://roboflow.com)       | Roboflow is a developer tool for building computer vision models faster and more accurately.                | 2019         |
 | [Supabase](https://supabase.io)        | Supabase is the open source Firebase alternative.                                                           | 2020         |
 | [SuperTokens](https://supertokens.io)  | SuperTokens is an open source alternative to Auth0, Okta, Firebase Auth and AWS Cognito.                                                           | 2019         |
