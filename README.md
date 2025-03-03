@@ -65,6 +65,7 @@
 | [Apideck](https://apideck.com)   | Apideck provides access to a single integration layer with a rapidly growing ecosystem of APIs.                                                                                                                         | 2018         |
 | [Appwrite](https://appwrite.io)   | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment                                                                                                                         | 2020         |
 | [Bannerbear](https://bannerbear.com)   | Bannerbear auto-generates social media visuals, ecommerce banners, and dynamic email images.                | 2019         |
+| [Bucket](https://bucket.co) | Bucket is a feature flag provider for B2B SaaS companies. | 2021 |
 | [Budibase](https://budibase.com)       | Budibase helps you build internal tools on your own infrastructure in minutes.                              | 2019         |
 | [Cerbos](https://cerbos.dev)         | Cerbos is decoupled, open-source and low-toil application access control. | 2021 |
 | [Chromatic](https://www.chromatic.com) | Chromatic automates gathering UI feedback, visual testing, and documentation, so developers can iterate faster with less manual work.                             | 2017         |
